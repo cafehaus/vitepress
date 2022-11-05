@@ -1,6 +1,7 @@
 module.exports = {
   title: 'VitePress',
   description: 'Just playing around.',
+  base: '/vitepress/',
   themeConfig: {
     nav: [
       { text: 'Blog', link: 'https://cafehaus.github.io/blog/' },
